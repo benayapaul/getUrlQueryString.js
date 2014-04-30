@@ -9,12 +9,12 @@
     ],
     "version": "1.0.0",
     "author": {
-        "name": "Codeasearch – learn, practice and implement",
+        "name": "P.Benaya Paul",
         "url": "https://github.com/benayapaul/getUrlQueryString.js/blob/master/about/AUTHOR.txt"
     },
     "maintainers": [
         {
-            "name": "P.Benaya Paul",
+            "name": "Codeasearch – learn, practice and implement",
             "email": "info@codeasearch.com",
             "url": "http://www.codeasearch.com"
         }
