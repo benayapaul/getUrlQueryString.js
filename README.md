@@ -9,8 +9,7 @@ this plugin used for accessing the query string and url.
 Example
 ========================================================
 
-<script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
-<script>
+<script src="//code.jquery.com/jquery-1.11.0.min.js"></script>
 $.extend({	
 	getUrlQueryString:function(url) {	
 		// spliting the url and query string using question mark
@@ -38,6 +37,3 @@ $.extend({
 
 // Below url with display query string if its present or not
 var query = $.getUrlQueryString(window.location.href);
-</script>
- 
-
