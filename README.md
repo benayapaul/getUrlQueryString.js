@@ -7,8 +7,7 @@ this plugin used for accessing the query string and url.
 
 
 Example
-========================================================
-
+<pre>
 <script src="//code.jquery.com/jquery-1.11.0.min.js"></script>
 $.extend({	
 	getUrlQueryString:function(url) {	
@@ -37,3 +36,4 @@ $.extend({
 
 // Below url with display query string if its present or not
 var query = $.getUrlQueryString(window.location.href);
+</pre>
