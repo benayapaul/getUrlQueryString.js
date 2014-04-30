@@ -27,7 +27,7 @@
     ],
     "bugs": "https://github.com/benayapaul/getUrlQueryString.js/issues",
     "homepage": "http://www.codeasearch.com",
-    "docs": "https://github.com/benayapaul/getUrlQueryString.js",
+    "docs": "https://github.com/benayapaul/getUrlQueryString.js/blob/master/README.md",
     "download": "",
     "dependencies": {
         "jquery": ">=1.11.0"
