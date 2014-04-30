@@ -6,4 +6,5 @@ this plugin used for accessing the query string and url.
 
 
 Source
+========================================================
 https://github.com/benayapaul/getUrlQueryString.js/blob/master/example.html
