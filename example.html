@@ -1,0 +1,9 @@
+<script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
+<script src="getUrlQueryString.js"></script>
+
+<script>
+// Below url with display query string if its present or not
+var query = $.getUrlQueryString(window.location.href);
+alert(query.q +" or "+ query["q"]);
+</script>
+
