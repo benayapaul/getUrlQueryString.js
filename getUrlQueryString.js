@@ -1,15 +1,15 @@
-$.extend({	
-	getUrlQueryString:function(url) {	
+$.extend({
+	getUrlQueryString:function(url) {
 		if (url.length > 0) {
 			// spliting the url and query string using question mark
-			var splitUrl = url.split("?"); 
-			
+			var splitUrl = url.split("?");
+
 			// again spliting the data which will have & symbol
 			var strUrl = (splitUrl.length>1) ? splitUrl[1].split("&") : 0;
-			
+
 			var i = 0;
 			var iLen = strUrl.length;
-			
+
 			var str = '';
 			var obj = {};
 
