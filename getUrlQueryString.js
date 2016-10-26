@@ -15,7 +15,9 @@ $.extend({
 		// iterator to assign key pair values into obj variable
 		for(i=0;i<iLen;i++) {
 			str = strUrl[i].split("=");
-			obj[str[0]] = str[1];
+			if (str[0].length > 0 && typeof str[1] !== 'undefined') {
+				obj[str[0]] = str[1];
+			}
 		}
 
 		// returning the value
