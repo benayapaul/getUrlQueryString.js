@@ -17,7 +17,7 @@ $.extend({
 			for(i=0;i<iLen;i++) {
 				str = strUrl[i].split("=");
 				if (str[0].length > 0 && typeof str[1] !== 'undefined') {
-					obj[str[0]] = str[1];
+					obj[str[0]] = decodeURIComponent(str[1]);
 				}
 			}
 
