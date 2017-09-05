@@ -22,7 +22,7 @@ $.extend({
 			}
 
 			// returning the value
-			return Array.prototype.sort.call(obj);
+			return obj;
 
 		} else {
 			return {};
