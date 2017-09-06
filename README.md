@@ -9,8 +9,13 @@ No prerequisites as of v2.0.0. No longer requires jQuery!
 ## Download
 * **Development:** [src/getUrlQueryString.js
 ](https://github.com/kevindb/getUrlQueryString.js/blob/master/src/getUrlQueryString.js)
-* **Production/Minified:** [dist/getUrlQueryString.js
-](https://github.com/kevindb/getUrlQueryString.js/blob/master/dist/getUrlQueryString.js)
+* **Production/Minified:** [dist/getUrlQueryString.min.js
+](https://github.com/kevindb/getUrlQueryString.js/blob/master/dist/getUrlQueryString.min.js)
+
+### CDN
+```html
+<script src="https://cdn.jsdelivr.net/gh/kevindb/getUrlQueryString.js@2.0.0/dist/getUrlQueryString.min.js" integrity="sha384-lFx8tnP+/THfGdDvWxkJMwpgMGDa4CxocWazoH9DhN0wSgeqg5/ob2NgoEYZ+iNb" crossorigin="anonymous"></script>
+```
 
 ## Documentation
 [example.html](https://github.com/kevindb/getUrlQueryString.js/blob/master/docs/example.html)
