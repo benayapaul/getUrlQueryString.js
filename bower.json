@@ -1,0 +1,21 @@
+{
+  "name": "getUrlQueryString",
+  "description": "Getting URL query string as an object.",
+  "main": "src/getUrlQueryString.js",
+  "moduleType": [ "globals", "amd", "node" ],
+  "license": "LGPL-2.1+",
+  "ignore": [
+    "README.md",
+    "composer.json",
+    "package.json"
+  ],
+  "authors": [
+    { "name": "Kevin Morris" },
+    { "name": "Benaya Paul" }
+  ],
+  "homepage": "https://github.com/kevindb/getUrlQueryString.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kevindb/getUrlQueryString.js.git"
+  }
+}
