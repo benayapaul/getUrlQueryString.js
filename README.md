@@ -1,8 +1,7 @@
 getUrlQueryString.js
 ========================================================
 
-Getting url query string using getUrlQueryString plugin, which support Array and Object format.
-this plugin used for accessing the query string and url.
+Retrieve URL query strings using the getUrlQueryString plugin, which supports both array and object formats. This plugin is designed for accessing query strings and URL parameters efficiently.
 
 
 Source
